@@ -4,7 +4,7 @@ A real-time attendance system that uses facial recognition to identify students 
  
 ## Demo Video
  
-[Watch the demo here](#) <!-- replace with your YouTube/Drive link -->
+[Watch the demo here](https://www.youtube.com/watch?v=90mUXaag0rU) <!-- replace with your YouTube/Drive link -->
  
 ## What It Does
  
